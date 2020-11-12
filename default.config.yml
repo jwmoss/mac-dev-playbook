@@ -13,7 +13,7 @@ sudoers_custom_config: ""
 #   %admin ALL=(ALL) NOPASSWD: ALL
 
 homebrew_installed_packages:
-  - ansible
+  - k3s
   - conftest
   - ffmpeg
   - gh
@@ -37,13 +37,10 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - chromedriver
   - docker
   - dropbox
   - firefox
-  - google-chrome
   - slack
-  - vagrant
   - powershell
 
 # See `geerlingguy.mas` role documentation for usage instructions.
