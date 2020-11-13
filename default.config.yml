@@ -24,7 +24,6 @@ homebrew_installed_packages:
   - openssl@1.1
   - packer
   - pandoc
-  - rav1e
   - rclone
   - speedtest-cli
   - ssh-copy-id
