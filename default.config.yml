@@ -21,6 +21,7 @@ homebrew_installed_packages:
   - git
   - imagemagick
   - k3d
+  - mas
   - openssl@1.1
   - packer
   - pandoc
